@@ -703,6 +703,8 @@ See `CODE_OF_CONDUCT.md` for community standards
 - Private use allowed
 - Liability and warranty disclaimers apply
 
+**Note**: The LICENSE file and README both specify MIT License, though there is a mention of "BSD-3-licensed" in the README's "Why use BeaVR?" section which may be outdated or refer to specific components.
+
 ---
 
 ## 12. Future Directions
